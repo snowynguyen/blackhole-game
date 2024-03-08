@@ -8,7 +8,7 @@ const baseStyle = {
   borderRadius: "50%",
   minWidth: `${WIDTH}px`,
   minHeight: `${HEIGHT}px`,
-  border: "1px solid black",
+  border: "4px solid black",
   color: "white",
   fontSize: "20px",
   fontWeight: 800,
